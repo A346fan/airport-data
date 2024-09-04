@@ -1,6 +1,251 @@
 {
     "airports": [
         {
+            "icao": "EDDM",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDM"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/chapter/eddm-munchen"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by NSAJID",
+                    "url": "https://flightsim.to/file/56933/eddm-munich-franz-josef-strauss-airport"
+                }
+            ]
+        },
+        {
+            "icao": "EDDN",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDN"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EV0wOZxFCFpMpnmPzfPpFfcBsdJI8oHmAFhChWtqh6Jzcg?e=poD7c0"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Scenery by FranknFly",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/42808-eddn-nuernberg-international-for-xplane-12/"
+                }
+            ]
+        },
+        {
+            "icao": "EDDP",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDP"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EYrY47Afd7RFl_nvjYjvY6QBbTP06NMpTH_-56vlVmI8cg?e=GC0Td0"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                }
+            ]
+        },
+        {
+            "icao": "EDJA",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDJA"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://1drv.ms/b/c/b6d5387947d75fd6/ERYU5q0hg4lAg6-8JEoK39UBUOxFhl_wDW4HnRCClwVwzQ?e=YJjcYt"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by FREDS-Airports",
+                    "url": "https://www.freds-airports.de/edja-allgaeu-airport-memmingen/"
+                }
+            ]
+        },
+        {
+            "icao": "EDDC",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDC"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EWscK06wNcRKoiEevu-0fksBYcVeGRv8-J5j4nRQ0VjoWA?e=nbAnUa"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by jumiktdesign",
+                    "url": "https://flightsim.to/file/3062/dresden-international-airport-eddc-enhancement"
+                }
+            ]
+        },
+        {
+            "icao": "EDMA",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDMA"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EZ36vS_vlWNLtv1j8f7u6eQBd2Ud6UXBpenr3I48FbpJZw?e=hpXIE1"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Scenery by BaggySimi",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/24438-edma-augsburg-airport/"
+                }
+            ]
+        },
+        {
+            "icao": "EDLP",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDLP"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlp-paderbornlippstadt"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by Aerosoft",
+                    "url": "https://secure.simmarket.com/aerosoft-airport-paderbornlippstadt-msfs-free.phtml"
+                }
+            ]
+        },
+        {
+            "icao": "EDDL",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDL"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddl-dusseldorf"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by hu277",
+                    "url": "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
+                }
+            ]
+        },
+        {
+            "icao": "EDDK",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDK"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddk-kolnbonn"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "X-Plane Scenery by FLYAGI",
+                    "url": "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
+                }
+            ]
+        },
+        {
+            "icao": "EDDS",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDS"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edds-stuttgart"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                }
+            ]
+        },
+        {
+            "icao": "EDDF",
+            "links": [
+                {
+                    "category": "Charts",
+                    "name": "Charts (IFR)",
+                    "url": "https://chartfox.org/EDDF"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "Pilotbriefing",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddf-frankfurtmain"
+                },
+                {
+                    "category": "Briefing",
+                    "name": "vACDM Pilot Guide",
+                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by virtualFRA",
+                    "url": "https://virtual-fra.com/"
+                },
+                {
+                    "category": "Scenery",
+                    "name": "MSFS Scenery by Aviotek",
+                    "url": "https://orbxdirect.com/product/aviotek-eddf-msfs"
+                }
+            ]
+        },
+        {
             "icao": "EDNY",
             "links": [
                 {
@@ -46,27 +291,17 @@
             ]
         },
         {
-            "icao": "EDFM",
+            "icao": "EDDR",
             "links": [
                 {
                     "category": "Charts",
                     "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDFM"
+                    "url": "https://chartfox.org/EDDR"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfm-mannheim-city"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by joe_ger",
-                    "url": "https://flightsim.to/file/28603/edfm-airport-mannheim-city"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Scenery by AeroX",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/84552-edfmmhg-mannheim-city-airport-by-aerox-simulations/"
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
                 }
             ]
         },
@@ -82,31 +317,6 @@
                     "category": "Scenery",
                     "name": "MSFS Scenery by uli057",
                     "url": "https://flightsim.to/file/22730/edgs-airport-siegerland-burbach"
-                }
-            ]
-        },
-        {
-            "icao": "EDLW",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDLW"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlw-dortmund"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by Chak991",
-                    "url": "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by Bahrometrix",
-                    "url": "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
                 }
             ]
         },
@@ -127,51 +337,6 @@
                     "category": "Scenery",
                     "name": "X-Plane Scenery by AeroX",
                     "url": "https://forums.x-plane.org/index.php?/files/file/68472-edsb-fkb-baden-airpark-v2-by-aerox-simulations-original-file-download/"
-                }
-            ]
-        },
-        {
-            "icao": "EDDL",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDL"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddl-dusseldorf"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by hu277",
-                    "url": "https://flightsim.to/file/7172/eddl-enhancement-v0-1"
-                }
-            ]
-        },
-        {
-            "icao": "EDDS",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDS"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edds-stuttgart"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
                 }
             ]
         },
@@ -226,92 +391,27 @@
             ]
         },
         {
-            "icao": "EDDK",
+            "icao": "EDFM",
             "links": [
                 {
                     "category": "Charts",
                     "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDK"
+                    "url": "https://chartfox.org/EDFM"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddk-kolnbonn"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edfm-mannheim-city"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by FLYAGI",
-                    "url": "https://flight-sim.org/filebase/index.php?entry/1410-eddk-cologne-bonn-xp12/"
-                }
-            ]
-        },
-        {
-            "icao": "EDLP",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDLP"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlp-paderbornlippstadt"
+                    "name": "MSFS Scenery by joe_ger",
+                    "url": "https://flightsim.to/file/28603/edfm-airport-mannheim-city"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by Aerosoft",
-                    "url": "https://secure.simmarket.com/aerosoft-airport-paderbornlippstadt-msfs-free.phtml"
-                }
-            ]
-        },
-        {
-            "icao": "EDDR",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDR"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddr-saarbrucken"
-                }
-            ]
-        },
-        {
-            "icao": "EDDF",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDF"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/eddf-frankfurtmain"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by virtualFRA",
-                    "url": "https://virtual-fra.com/"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by Aviotek",
-                    "url": "https://orbxdirect.com/product/aviotek-eddf-msfs"
+                    "name": "X-Plane Scenery by AeroX",
+                    "url": "https://forums.x-plane.org/index.php?/files/file/84552-edfmmhg-mannheim-city-airport-by-aerox-simulations/"
                 }
             ]
         },
@@ -341,127 +441,27 @@
             ]
         },
         {
-            "icao": "EDDC",
+            "icao": "EDLW",
             "links": [
                 {
                     "category": "Charts",
                     "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDC"
+                    "url": "https://chartfox.org/EDLW"
                 },
                 {
                     "category": "Briefing",
                     "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EWscK06wNcRKoiEevu-0fksBYcVeGRv8-J5j4nRQ0VjoWA?e=nbAnUa"
+                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-langen-fir-edgg/chapter/edlw-dortmund"
                 },
                 {
                     "category": "Scenery",
-                    "name": "MSFS Scenery by jumiktdesign",
-                    "url": "https://flightsim.to/file/3062/dresden-international-airport-eddc-enhancement"
-                }
-            ]
-        },
-        {
-            "icao": "EDMA",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDMA"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EZ36vS_vlWNLtv1j8f7u6eQBd2Ud6UXBpenr3I48FbpJZw?e=hpXIE1"
+                    "name": "MSFS Scenery by Chak991",
+                    "url": "https://de.flightsim.to/file/47104/edlw-dortmund-regional"
                 },
                 {
                     "category": "Scenery",
-                    "name": "X-Plane Scenery by BaggySimi",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/24438-edma-augsburg-airport/"
-                }
-            ]
-        },
-        {
-            "icao": "EDDP",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDP"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EYrY47Afd7RFl_nvjYjvY6QBbTP06NMpTH_-56vlVmI8cg?e=GC0Td0"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                }
-            ]
-        },
-        {
-            "icao": "EDDN",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDN"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/w/c/b6d5387947d75fd6/EV0wOZxFCFpMpnmPzfPpFfcBsdJI8oHmAFhChWtqh6Jzcg?e=poD7c0"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "X-Plane Scenery by FranknFly",
-                    "url": "https://forums.x-plane.org/index.php?/files/file/42808-eddn-nuernberg-international-for-xplane-12/"
-                }
-            ]
-        },
-        {
-            "icao": "EDDM",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDDM"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/airports-munchen-fir-edmm/chapter/eddm-munchen"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "vACDM Pilot Guide",
-                    "url": "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-guide"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by NSAJID",
-                    "url": "https://flightsim.to/file/56933/eddm-munich-franz-josef-strauss-airport"
-                }
-            ]
-        },
-        {
-            "icao": "EDJA",
-            "links": [
-                {
-                    "category": "Charts",
-                    "name": "Charts (IFR)",
-                    "url": "https://chartfox.org/EDJA"
-                },
-                {
-                    "category": "Briefing",
-                    "name": "Pilotbriefing",
-                    "url": "https://1drv.ms/b/c/b6d5387947d75fd6/ERYU5q0hg4lAg6-8JEoK39UBUOxFhl_wDW4HnRCClwVwzQ?e=YJjcYt"
-                },
-                {
-                    "category": "Scenery",
-                    "name": "MSFS Scenery by FREDS-Airports",
-                    "url": "https://www.freds-airports.de/edja-allgaeu-airport-memmingen/"
+                    "name": "MSFS Scenery by Bahrometrix",
+                    "url": "https://flightsim.to/file/51183/regional-airport-dortmund-edlw"
                 }
             ]
         }
