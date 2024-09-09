@@ -1,15 +1,20 @@
 [[airport]]
-icao = "EDDP"
+icao = "EDVE"
 
 [[airport.links]]
 category = "Charts"
 name = "Charts (IFR)"
-url = "https://chartfox.org/EDDP"
+url = "https://chartfox.org/EDVE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://www.vfraip.de/?EDVE"
 
 [[airport.links]]
 category = "Briefing"
 name = "Pilotbriefing"
-url = "https://vats.im/eddp-briefing"
+url = "https://vats.im/edve-briefing"
 
 [[airport.links]]
 category = "Briefing"
@@ -18,5 +23,5 @@ url = "https://knowledgebase.vatsim-germany.org/books/vacdm/page/vacdm-pilot-gui
 
 [[airport.links]]
 category = "Scenery"
-name = "MSFS Payware by Digital Design"
-url = "https://secure.simmarket.com/digital-design-leipzig-msfs.phtml"
+name = "MSFS Freeware by TeamEDVE"
+url = "https://flightsim.to/file/23933/flughafen-braunschweig-wolfsburg-edve/"
