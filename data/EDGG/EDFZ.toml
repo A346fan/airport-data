@@ -1,0 +1,12 @@
+[[airport]]
+icao = "EDFZ"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C01A44.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by nordic777"
+url = "https://flightsim.to/file/23369/edfz-mainz-finthen"

@@ -1,0 +1,17 @@
+[[airport]]
+icao = "EDLE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C0198B.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by Bahrometrix"
+url = "http://www.bahrometrix.de/downloads/flughafen-essen-muelheim-edle/"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by Bahrometrix"
+url = "http://www.bahrometrix.de/muelheim-ruhr-x-plane-12/"

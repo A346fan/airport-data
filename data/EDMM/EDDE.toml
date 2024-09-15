@@ -1,0 +1,22 @@
+[[airport]]
+icao = "EDDE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (IFR)"
+url = "https://chartfox.org/EDDE"
+
+[[airport.links]]
+category = "Charts"
+name = "Charts (VFR)"
+url = "https://aip.dfs.de/BasicVFR/pages/C019BE.html"
+
+[[airport.links]]
+category = "Scenery"
+name = "MSFS Freeware by mchigh"
+url = "https://flightsim.to/file/3051/edde-erfurt-airport-enhancement/"
+
+[[airport.links]]
+category = "Scenery"
+name = "X-Plane Freeware by bosun"
+url = "https://forums.x-plane.org/index.php?/files/file/30342-edde-erfurt-weimar-airport/"
